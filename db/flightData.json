@@ -1,0 +1,626 @@
+[
+    {
+        "price": 1614,
+        "date": "2023-04-15",
+        "flightName": "indigo",
+        "from": {
+            "city": "Delhi",
+            "short": "DEL"
+        },
+        "to": {
+            "city": "Jaipur",
+            "short": "JP"
+        }
+    },
+    {
+        "price": 1869,
+        "date": "2023-04-15",
+        "flightName": "airAsia",
+        "from": {
+            "city": "Delhi",
+            "short": "DEL"
+        },
+        "to": {
+            "city": "Jaipur",
+            "short": "JP"
+        }
+    },
+    {
+        "price": 2133,
+        "date": "2023-04-15",
+        "flightName": "vistara",
+        "from": {
+            "city": "Delhi",
+            "short": "DEL"
+        },
+        "to": {
+            "city": "Jaipur",
+            "short": "JP"
+        }
+    },
+    {
+        "price": 1614,
+        "date": "2023-04-15",
+        "flightName": "indigo",
+        "from": {
+            "city": "Jaipur",
+            "short": "JP"
+        },
+        "to": {
+            "city": "Delhi",
+            "short": "DEL"
+        }
+    },
+    {
+        "price": 1869,
+        "date": "2023-04-15",
+        "flightName": "airAsia",
+        "from": {
+            "city": "Jaipur",
+            "short": "JP"
+        },
+        "to": {
+            "city": "Delhi",
+            "short": "DEL"
+        }
+    },
+    {
+        "price": 2133,
+        "date": "2023-04-15",
+        "flightName": "vistara",
+        "from": {
+            "city": "Jaipur",
+            "short": "JP"
+        },
+        "to": {
+            "city": "Delhi",
+            "short": "DEL"
+        }
+    },
+    {
+        "price": 1614,
+        "date": "2023-04-15",
+        "flightName": "indigo",
+        "from": {
+            "city": "Jaipur",
+            "short": "JP"
+        },
+        "to": {
+            "city": "Bangalore",
+            "short": "BLR"
+        }
+    },
+    {
+        "price": 1869,
+        "date": "2023-04-15",
+        "flightName": "airAsia",
+        "from": {
+            "city": "Jaipur",
+            "short": "JP"
+        },
+        "to": {
+            "city": "Bangalore",
+            "short": "BLR"
+        }
+    },
+    {
+        "price": 2133,
+        "date": "2023-04-15",
+        "flightName": "vistara",
+        "from": {
+            "city": "Jaipur",
+            "short": "JP"
+        },
+        "to": {
+            "city": "Bangalore",
+            "short": "BLR"
+        }
+    },
+    {
+        "price": 1614,
+        "date": "2023-04-15",
+        "flightName": "indigo",
+        "from": {
+            "city": "Bangalore",
+            "short": "BLR"
+        },
+        "to": {
+            "city": "Jaipur",
+            "short": "JP"
+        }
+    },
+    {
+        "price": 1869,
+        "date": "2023-04-15",
+        "flightName": "airAsia",
+        "from": {
+            "city": "Bangalore",
+            "short": "BLR"
+        },
+        "to": {
+            "city": "Jaipur",
+            "short": "JP"
+        }
+    },
+    {
+        "price": 2133,
+        "date": "2023-04-15",
+        "flightName": "vistara",
+        "from": {
+            "city": "Bangalore",
+            "short": "BLR"
+        },
+        "to": {
+            "city": "Jaipur",
+            "short": "JP"
+        }
+    },
+    {
+        "price": 2614,
+        "date": "2023-05-06",
+        "flightName": "indigo",
+        "from": {
+            "city": "Delhi",
+            "short": "DEL"
+        },
+        "to": {
+            "city": "Jaipur",
+            "short": "JP"
+        }
+    },
+    {
+        "price": 2869,
+        "date": "2023-05-06",
+        "flightName": "airAsia",
+        "from": {
+            "city": "Delhi",
+            "short": "DEL"
+        },
+        "to": {
+            "city": "Jaipur",
+            "short": "JP"
+        }
+    },
+    {
+        "price": 2133,
+        "date": "2023-05-06",
+        "flightName": "vistara",
+        "from": {
+            "city": "Delhi",
+            "short": "DEL"
+        },
+        "to": {
+            "city": "Jaipur",
+            "short": "JP"
+        }
+    },
+    {
+        "price": 2614,
+        "date": "2023-05-06",
+        "flightName": "indigo",
+        "from": {
+            "city": "Jaipur",
+            "short": "JP"
+        },
+        "to": {
+            "city": "Delhi",
+            "short": "DEL"
+        }
+    },
+    {
+        "price": 2869,
+        "date": "2023-05-06",
+        "flightName": "airAsia",
+        "from": {
+            "city": "Jaipur",
+            "short": "JP"
+        },
+        "to": {
+            "city": "Delhi",
+            "short": "DEL"
+        }
+    },
+    {
+        "price": 2233,
+        "date": "2023-05-06",
+        "flightName": "vistara",
+        "from": {
+            "city": "Jaipur",
+            "short": "JP"
+        },
+        "to": {
+            "city": "Delhi",
+            "short": "DEL"
+        }
+    },
+    {
+        "price": 2614,
+        "date": "2023-05-06",
+        "flightName": "indigo",
+        "from": {
+            "city": "Jaipur",
+            "short": "JP"
+        },
+        "to": {
+            "city": "Bangalore",
+            "short": "BLR"
+        }
+    },
+    {
+        "price": 2869,
+        "date": "2023-05-06",
+        "flightName": "airAsia",
+        "from": {
+            "city": "Jaipur",
+            "short": "JP"
+        },
+        "to": {
+            "city": "Bangalore",
+            "short": "BLR"
+        }
+    },
+    {
+        "price": 2233,
+        "date": "2023-05-06",
+        "flightName": "vistara",
+        "from": {
+            "city": "Jaipur",
+            "short": "JP"
+        },
+        "to": {
+            "city": "Bangalore",
+            "short": "BLR"
+        }
+    },
+    {
+        "price": 2614,
+        "date": "2023-05-06",
+        "flightName": "indigo",
+        "from": {
+            "city": "Bangalore",
+            "short": "BLR"
+        },
+        "to": {
+            "city": "Jaipur",
+            "short": "JP"
+        }
+    },
+    {
+        "price": 2869,
+        "date": "2023-05-06",
+        "flightName": "airAsia",
+        "from": {
+            "city": "Bangalore",
+            "short": "BLR"
+        },
+        "to": {
+            "city": "Jaipur",
+            "short": "JP"
+        }
+    },
+    {
+        "price": 2233,
+        "date": "2023-05-06",
+        "flightName": "vistara",
+        "from": {
+            "city": "Bangalore",
+            "short": "BLR"
+        },
+        "to": {
+            "city": "Jaipur",
+            "short": "JP"
+        }
+    },
+    {
+        "price": 3614,
+        "date": "2023-05-07",
+        "flightName": "indigo",
+        "from": {
+            "city": "Delhi",
+            "short": "DEL"
+        },
+        "to": {
+            "city": "Jaipur",
+            "short": "JP"
+        }
+    },
+    {
+        "price": 3869,
+        "date": "2023-05-07",
+        "flightName": "airAsia",
+        "from": {
+            "city": "Delhi",
+            "short": "DEL"
+        },
+        "to": {
+            "city": "Jaipur",
+            "short": "JP"
+        }
+    },
+    {
+        "price": 3133,
+        "date": "2023-05-07",
+        "flightName": "vistara",
+        "from": {
+            "city": "Delhi",
+            "short": "DEL"
+        },
+        "to": {
+            "city": "Jaipur",
+            "short": "JP"
+        }
+    },
+    {
+        "price": 3614,
+        "date": "2023-05-07",
+        "flightName": "indigo",
+        "from": {
+            "city": "Jaipur",
+            "short": "JP"
+        },
+        "to": {
+            "city": "Delhi",
+            "short": "DEL"
+        }
+    },
+    {
+        "price": 3869,
+        "date": "2023-05-07",
+        "flightName": "airAsia",
+        "from": {
+            "city": "Jaipur",
+            "short": "JP"
+        },
+        "to": {
+            "city": "Delhi",
+            "short": "DEL"
+        }
+    },
+    {
+        "price": 3133,
+        "date": "2023-05-07",
+        "flightName": "vistara",
+        "from": {
+            "city": "Jaipur",
+            "short": "JP"
+        },
+        "to": {
+            "city": "Delhi",
+            "short": "DEL"
+        }
+    },
+    {
+        "price": 3614,
+        "date": "2023-05-07",
+        "flightName": "indigo",
+        "from": {
+            "city": "Jaipur",
+            "short": "JP"
+        },
+        "to": {
+            "city": "Bangalore",
+            "short": "BLR"
+        }
+    },
+    {
+        "price": 3869,
+        "date": "2023-05-07",
+        "flightName": "airAsia",
+        "from": {
+            "city": "Jaipur",
+            "short": "JP"
+        },
+        "to": {
+            "city": "Bangalore",
+            "short": "BLR"
+        }
+    },
+    {
+        "price": 3133,
+        "date": "2023-05-07",
+        "flightName": "vistara",
+        "from": {
+            "city": "Jaipur",
+            "short": "JP"
+        },
+        "to": {
+            "city": "Bangalore",
+            "short": "BLR"
+        }
+    },
+    {
+        "price": 3614,
+        "date": "2023-05-07",
+        "flightName": "indigo",
+        "from": {
+            "city": "Bangalore",
+            "short": "BLR"
+        },
+        "to": {
+            "city": "Jaipur",
+            "short": "JP"
+        }
+    },
+    {
+        "price": 3869,
+        "date": "2023-05-07",
+        "flightName": "airAsia",
+        "from": {
+            "city": "Bangalore",
+            "short": "BLR"
+        },
+        "to": {
+            "city": "Jaipur",
+            "short": "JP"
+        }
+    },
+    {
+        "price": 3133,
+        "date": "2023-05-07",
+        "flightName": "vistara",
+        "from": {
+            "city": "Bangalore",
+            "short": "BLR"
+        },
+        "to": {
+            "city": "Jaipur",
+            "short": "JP"
+        }
+    },
+    {
+        "price": 4614,
+        "date": "2023-05-08",
+        "flightName": "indigo",
+        "from": {
+            "city": "Delhi",
+            "short": "DEL"
+        },
+        "to": {
+            "city": "Jaipur",
+            "short": "JP"
+        }
+    },
+    {
+        "price": 4869,
+        "date": "2023-05-08",
+        "flightName": "airAsia",
+        "from": {
+            "city": "Delhi",
+            "short": "DEL"
+        },
+        "to": {
+            "city": "Jaipur",
+            "short": "JP"
+        }
+    },
+    {
+        "price": 4133,
+        "date": "2023-05-08",
+        "flightName": "vistara",
+        "from": {
+            "city": "Delhi",
+            "short": "DEL"
+        },
+        "to": {
+            "city": "Jaipur",
+            "short": "JP"
+        }
+    },
+    {
+        "price": 4614,
+        "date": "2023-05-08",
+        "flightName": "indigo",
+        "from": {
+            "city": "Jaipur",
+            "short": "JP"
+        },
+        "to": {
+            "city": "Delhi",
+            "short": "DEL"
+        }
+    },
+    {
+        "price": 4869,
+        "date": "2023-05-08",
+        "flightName": "airAsia",
+        "from": {
+            "city": "Jaipur",
+            "short": "JP"
+        },
+        "to": {
+            "city": "Delhi",
+            "short": "DEL"
+        }
+    },
+    {
+        "price": 4133,
+        "date": "2023-05-08",
+        "flightName": "vistara",
+        "from": {
+            "city": "Jaipur",
+            "short": "JP"
+        },
+        "to": {
+            "city": "Delhi",
+            "short": "DEL"
+        }
+    },
+    {
+        "price": 4614,
+        "date": "2023-05-08",
+        "flightName": "indigo",
+        "from": {
+            "city": "Jaipur",
+            "short": "JP"
+        },
+        "to": {
+            "city": "Bangalore",
+            "short": "BLR"
+        }
+    },
+    {
+        "price": 4869,
+        "date": "2023-05-08",
+        "flightName": "airAsia",
+        "from": {
+            "city": "Jaipur",
+            "short": "JP"
+        },
+        "to": {
+            "city": "Bangalore",
+            "short": "BLR"
+        }
+    },
+    {
+        "price": 4133,
+        "date": "2023-05-08",
+        "flightName": "vistara",
+        "from": {
+            "city": "Jaipur",
+            "short": "JP"
+        },
+        "to": {
+            "city": "Bangalore",
+            "short": "BLR"
+        }
+    },
+    {
+        "price": 4614,
+        "date": "2023-05-08",
+        "flightName": "indigo",
+        "from": {
+            "city": "Bangalore",
+            "short": "BLR"
+        },
+        "to": {
+            "city": "Jaipur",
+            "short": "JP"
+        }
+    },
+    {
+        "price": 4869,
+        "date": "2023-05-08",
+        "flightName": "airAsia",
+        "from": {
+            "city": "Bangalore",
+            "short": "BLR"
+        },
+        "to": {
+            "city": "Jaipur",
+            "short": "JP"
+        }
+    },
+    {
+        "price": 4133,
+        "date": "2023-05-08",
+        "flightName": "vistara",
+        "from": {
+            "city": "Bangalore",
+            "short": "BLR"
+        },
+        "to": {
+            "city": "Jaipur",
+            "short": "JP"
+        }
+    }
+]
